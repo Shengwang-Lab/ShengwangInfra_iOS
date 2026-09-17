@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "aosl",
-            url: "https://download.shengwang.cn/swiftpm/ShengwangInfra_iOS/1.3.5/aosl.xcframework.zip",
-            checksum: "db2a2a856c72c31d2b92bee8a3c9190a3bf4bcebed28cbeb69644acac29cc1ff"
+            url: "https://download.shengwang.cn/swiftpm/ShengwangInfra_iOS/1.3.16/aosl.xcframework.zip",
+            checksum: "718fcf2ab3b8c0cf9ee7e6cefde356da5a500abf22caef37262461e240c83cab"
         ),
     ]
 )
